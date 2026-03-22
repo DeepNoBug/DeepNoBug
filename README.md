@@ -164,9 +164,27 @@
 ---
 
 <div align="center">
-  <i>"Talk is cheap. Show me the shell."</i>
-  <br><br>
+
+## 🔗 神经连接 // Neural Link
+
+<p align="center">
   <a href="mailto:cjwpython@163.com">
-    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-cjwpython@163.com-00FF00?style=for-the-badge&logo=minutemailer&logoColor=black&color=00FF00" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_EMAIL-cjwpython@163.com-00F0FF?style=for-the-badge&logo=minutemailer&logoColor=0A0E27&color=0A0E27&borderColor=00F0FF" />
   </a>
+  <a href="https://github.com/Jasper-Wynn">
+    <img src="https://img.shields.io/badge/💻_GITHUB-Jasper--Wynn-4A90E2?style=for-the-badge&logo=github&logoColor=0A0E27&color=0A0E27&borderColor=4A90E2" />
+  </a>
+</p>
+
+---
+
+<i><b>"The code is law. The terminal is truth."</b></i>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E27&height=80&section=footer" />
+</div>
+
 </div>
